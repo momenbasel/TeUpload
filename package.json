@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "~1.17.3",
+    "axios": "^1.2.1",
+    "expo": "^47.0.0",
+    "expo-async-storage": "^0.0.0",
+    "expo-media-library": "~15.0.0",
+    "expo-permissions": "~14.0.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-web": "~0.18.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "name": "teupload"
+}
